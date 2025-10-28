@@ -8,3 +8,4 @@
 • Built interactive Looker dashboards for real-time performance tracking.
 
 • Created loan status breakdowns to support strategic decisions.
+https://drive.google.com/file/d/1dz-0-kWKorBXfH8FmmLlorSVi5Lhi3tk/view?usp=sharing
